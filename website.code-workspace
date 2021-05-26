@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\course"
+		},
+		{
+			"path": "..\\..\\bs studio\\medidaily template"
+		},
+		{
+			"path": "..\\..\\bs studio\\medi2"
+		},
+		{
+			"path": "..\\..\\bs studio\\medidaily_done0"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "medidaily_done0"
+	}
+}
